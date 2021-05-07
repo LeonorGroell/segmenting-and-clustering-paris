@@ -1,6 +1,6 @@
 # Segmenting and Clustering Neighborhoods in Paris
 
-This is my project on the segmentation and clustering of Paris'arrondissements depending on their venues categories and dentities of population. 
+This is my project on the segmentation and clustering of Paris' arrondissements depending on their venues categories and dentities of population. 
 
 ## Notebook 
 
